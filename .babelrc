@@ -1,0 +1,6 @@
+{
+    "plugins": ["minify-simplify","minify-builtins"],
+    "presets": ["@babel/preset-env","minify"]
+}
+
+
